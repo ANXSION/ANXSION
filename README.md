@@ -23,7 +23,7 @@ I am interested in the evergrowing web technologies, future of IoT and hardwares
 |                     |Texturing            |Quixel Mixer
 |                     |Audio Engineering    |Ableton Live, FL Studio
 |                     |Movies               |Adobe Premier pro
-|                     |Legal                |Indian Law
+|                     |Legal                |BA(LLB)
 
 # My Links
 - [Portfolio](https://anxsion.github.io/)
