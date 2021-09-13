@@ -31,7 +31,7 @@ I am interested in the evergrowing web technologies, future of IoT and hardwares
 - [Facebook](https://www.facebook.com/AnxSionOfficial)
 - [Instagram](https://instagram.com/anxsion)
 - [YouTube](https://youtube.com/c/anxsion)
-- [Twitter](https://twitter.com/IAmAnxsion)
+- [Twitter](https://twitter.com/Anxsion)
 - [Spotify](https://open.spotify.com/artist/22yeYGWn2iMUfuMRuAPizK)
 - [Soundcloud](https://soundcloud.com/anxsion)
 - [Apple](https://music.apple.com/in/artist/anxsion/1257667569)
