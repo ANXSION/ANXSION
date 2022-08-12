@@ -29,12 +29,10 @@ I am interested in the evergrowing web technologies, future of IoT and hardwares
 - [Portfolio](https://anxsion.github.io/)
 - [Google Dev](http://g.dev/anxsion)
 - [LinkedIn](https://linkedin.com/in/anxsion)
-- [Facebook](https://www.facebook.com/AnxSionOfficial)
+- [Facebook](https://www.facebook.com/ANXSION)
 - [Instagram](https://instagram.com/anxsion)
 - [YouTube](https://youtube.com/c/anxsion)
-- [Twitter](https://twitter.com/Anxsion)
+- [Twitter](https://twitter.com/anxsion)
 - [Spotify](https://open.spotify.com/artist/22yeYGWn2iMUfuMRuAPizK)
 - [Soundcloud](https://soundcloud.com/anxsion)
 - [Apple](https://music.apple.com/in/artist/anxsion/1257667569)
-
-
