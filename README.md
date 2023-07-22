@@ -1,5 +1,5 @@
-# @AnxSion
-My name is Anurag Lama, known under the alias of [AnxSion](https://github.com/AnxSion), I am a multi-instrumentalist hailing from the hills of Darjeeling. I am skilled in hardware and software development and I am also an ongoing law student.
+# @ANXSION
+My name is Anurag Lama, known under the alias of [AnxSion](https://github.com/ANXSION), I am a multi-instrumentalist hailing from the hills of Darjeeling. I am skilled in hardware and software development and I am also an ongoing law student.
  
 # Interests
 I am interested in the evergrowing web technologies, future of IoT and hardwares. I am skilled in electronics and love making working prototypes.
